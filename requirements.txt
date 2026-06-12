@@ -1,0 +1,8 @@
+python-dotenv
+openai
+azure-identity
+azure-ai-projects>=2.0.0b4
+langchain-azure-ai
+langchain
+pypdf
+pandas

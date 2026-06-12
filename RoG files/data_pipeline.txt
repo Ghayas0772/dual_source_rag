@@ -1,0 +1,13 @@
+Data Pipeline:
+A data pipeline is a process used to move and transform data.
+
+Steps:
+1. Data ingestion
+2. Data cleaning
+3. Data storage
+4. Data analysis
+
+Example tools:
+- Databricks
+- Azure Data Factory
+- Azure SQL

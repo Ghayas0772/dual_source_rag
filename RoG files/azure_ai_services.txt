@@ -1,0 +1,9 @@
+Azure AI Services:
+Azure AI Services provide ready-to-use AI capabilities like:
+
+1. Vision - image analysis
+2. Speech - speech to text and text to speech
+3. Language - text understanding
+4. Document Intelligence - reading PDFs and forms
+
+These services are used in enterprise applications.

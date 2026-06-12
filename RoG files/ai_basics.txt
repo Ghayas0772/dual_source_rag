@@ -1,0 +1,10 @@
+Machine Learning:
+Machine learning is a method where computers learn from data instead of being explicitly programmed.
+
+Types of Machine Learning:
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Example:
+Netflix recommendations use machine learning.
