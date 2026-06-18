@@ -102,28 +102,23 @@ This project is built for:
 
 ---
 
-### 2. Dashboard Home / Initial UI
-![Dashboard Home](screenshots/01_rag_dashboard_home%20cmd.png)
-
----
-
-### 3. User Search / Input Interaction
-![User Input](screenshots/01_rag_dashboard_home%20User%20Search.png)
-
----
-
-### 4. User Query Page (Alternative View)
-![User Query](screenshots/01_rag_dashboard_home%20User%20serach%20page%20.png)
-
----
-
-### 5. Run Project Execution
+### 2. Run Project Execution
 ![Run Project](screenshots/step2_run_project.png.png)
 
 ---
 
-### 6. Step 3 - User Input Execution
-![User Input Step 3](screenshots/step3_user_input.png.png)
+### 3. User Input Execution
+![User Input](screenshots/step3_user_input.png.png)
+
+---
+
+### 4. Dashboard Home / Initial UI
+![Dashboard Home](screenshots/01_rag_dashboard_home%20cmd.png)
+
+---
+
+### 5. User Search / Input Interaction
+![User Search](screenshots/01_rag_dashboard_home%20User%20Search.png)
 
 ---
 
