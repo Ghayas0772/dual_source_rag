@@ -97,14 +97,38 @@ This project is built for:
 
 ## 📸 Demo Screenshots
 
-### 1. Dashboard Home
-![Dashboard Home](screenshots/01_rag_dashboard_home.png)
+### 1. Project Setup / File Structure
+![Project Setup](screenshots/step1_project_file.png.png)
 
-### 2. User Query Input
-![User Input](screenshots/step2_run_project.png.png)
+---
 
-### 3. Final Output
-![Result](screenshots/step3_user_input.png.png)
+### 2. Dashboard Home / Initial UI
+![Dashboard Home](screenshots/01_rag_dashboard_home%20cmd.png)
+
+---
+
+### 3. User Search / Input Interaction
+![User Input](screenshots/01_rag_dashboard_home%20User%20Search.png)
+
+---
+
+### 4. User Query Page (Alternative View)
+![User Query](screenshots/01_rag_dashboard_home%20User%20serach%20page%20.png)
+
+---
+
+### 5. Run Project Execution
+![Run Project](screenshots/step2_run_project.png.png)
+
+---
+
+### 6. Step 3 - User Input Execution
+![User Input Step 3](screenshots/step3_user_input.png.png)
+
+---
+
+### 7. Final Input Variant
+![Final Input](screenshots/step3_user_input.png2.png)
 
 
 ##  Disclaimer
