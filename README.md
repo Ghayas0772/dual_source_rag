@@ -95,6 +95,18 @@ This project is built for:
 
 ---
 
+## 📸 Demo Screenshots
+
+### 1. Dashboard Home
+![Dashboard Home](screenshots/01_rag_dashboard_home.png)
+
+### 2. User Query Input
+![User Input](screenshots/step2_run_project.png.png)
+
+### 3. Final Output
+![Result](screenshots/step3_user_input.png.png)
+
+
 ##  Disclaimer
 
 This is a research project and may contain experimental code not suitable for production use.
