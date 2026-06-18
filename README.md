@@ -122,7 +122,13 @@ This project is built for:
 
 ---
 
+## Demo Workflow
 
+1. Review the project structure and components.
+2. Launch the application.
+3. Enter a user query.
+4. Interact with the Streamlit dashboard.
+5. Retrieve responses through the RAG pipeline using Azure AI services.
 
 ##  Disclaimer
 
