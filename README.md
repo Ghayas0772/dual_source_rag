@@ -127,8 +127,6 @@ This project is built for:
 
 ---
 
-### 7. Final Input Variant
-![Final Input](screenshots/step3_user_input.png2.png)
 
 
 ##  Disclaimer
